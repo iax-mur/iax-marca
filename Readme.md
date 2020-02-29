@@ -1,17 +1,19 @@
-# Identidad visual corporativa del Instituto de EducaciÛn Secundaria Alfonso X el Sabio
+# Identidad visual corporativa del Instituto de Educaci√≥n Secundaria Alfonso X el Sabio
 
-Esta es una versiÛn p˙blica del contenido de marca. Existen otros elementos que est·n disponibles internamente para el centro.
+Referencia en [www.iax.es/about/ivc/](https://www.iax.es/about/ivc/).
 
-## Normas b·sicas
+## Indicaciones de uso
 
-Este material es propiedad del Instituto de EducaciÛn Secundaria Alfonso X el Sabio y no debe utilizarse o modificarse sin consentimiento previo del Ilmo. Sr. Director del centro.
+**Lea atentamente cada apartado de la siguiente informaci√≥n.**
 
-La marca puede sufrir modificaciones en cualquier momento. La fecha de la ˙ltima modificaciÛn es el dÌa 26 de enero de 2018.
+La Identidad Visual Corporativa del Instituto de Educaci√≥n Secundaria Alfonso X el Sabio es la imagen principal de la organizaci√≥n proyectada en todos sus mensajes comunicativos. La utilizaci√≥n correcta de los elementos gr√°ficos del manual unifica el perfil visual del instituto. Esta consistencia y cuidado ensalza la marca del centro ayudando a su promoci√≥n y reconocimiento.
 
-Todos los elementos incluidos en esta marca deben ser utilizados conforme a lo establecido en el Manual de identidad visual corporativa. No est· permitido un uso diferente al especificado en el mismo sin la autorizaciÛn previa del diseÒador de la marca o del encargado de marca del centro en el momento.
+Las gu√≠as del manual de Identidad Visual Corporativa deben ser utilizadas en todos los elementos que tengan relaci√≥n con el instituto de forma visual. Incluyendo as√≠ papeler√≠a (cartas, tarjetas, material reprogr√°fico, etc.), publicaciones (revistas, boletines, libros, noticias, etc.), publicidad, presentaciones (proyecciones, banners, posters, etc.), acciones promocionales y comunicaci√≥n digital (web, email, redes sociales, aplicaciones m√≥viles, v√≠deo, etc.).
 
-En las distintas carpetas se ubican recursos de marca (escudos del centro y submarcas), elementos predefinidos (aparecen en el manual) y elementos especÌficos (creados a peticiÛn del centro o de alg˙n departamento).
+Todos los elementos que componen la Identidad Visual Corporativa del Instituto de Educaci√≥n Secundaria Alfonso X el Sabio as√≠ como sus respectivos derechos **son propiedad del mismo y deben ser utilizados conforme a lo establecido en el Manual** que se especifica m√°s abajo. No est√° permitido un uso diferente al especificado en el Manual sin la autorizaci√≥n del dise√±ador o del encargado de la IVC en el momento.
 
-Las plantillas de documentos de texto necesitan una versiÛn de Microsoft Office igual o superior a la 2013. Se requiere, asÌ mismo, tener instalada en el sistema la tipografÌa Montserrat.
+No debe descargar elementos gr√°ficos que no necesite y debe **comprobar peri√≥dicamente** los que haya descargado, ya que podr√≠an sufrir cambios. (√öltimas actualizaciones: IVC 26/01/2018 y Manual 26/01/2018.)
 
-Se incluyen adem·s distintas submarcas como la de la AsociaciÛn de Estudiantes IES Alfonso X el Sabio de Murcia y la de la AsociaciÛn de Madres y Padres de Alumnos-as del Instituto Alfonso X el Sabio.
+La IVC se distribuye en¬†**recursos de marca** (elementos gr√°ficos de base, escudos, etc.), **elementos predefinidos** (composiciones predise√±adas en el manual), **elementos espec√≠ficos** (composiciones espec√≠ficas dise√±adas a petici√≥n del centro o de alguno de sus departamentos) y **submarcas** (elementos de otrass marcas pertenecientes al centro, como la de la Asociaci√≥n de Estudiantes IES Alfonso X el Sabio de Murcia, la de la Asociaci√≥n de Madres y Padres de Alumnos-as del Instituto Alfonso X el Sabio, la del Museo Alfonso X el Sabio (MusaX), la de AXRadio y la del logotipo conmemorativo del 180 aniversario del centro).
+
+En este repositorio se enlaza la parte p√∫blica de la¬†Identidad Visual Corporativa. Solo personal interno del centro puede acceder a la parte privada (modelos de documentos y otros recursos).
